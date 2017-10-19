@@ -1,3 +1,6 @@
+// Code adapted from:
+// http://bl.ocks.org/micahstubbs/8e15870eb432a21f0bc4d3d527b2d14f
+
 var margin = {top: 0, right: 0, bottom: 0, left: 0},
             width = 960 - margin.left - margin.right,
             height = 500 - margin.top - margin.bottom;
